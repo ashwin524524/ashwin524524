@@ -1,16 +1,54 @@
-## Hi there 👋
+# Hi, I'm Ashwin 👋
 
-<!--
-**ashwin524524/ashwin524524** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a student interested in robotics, embedded systems, electronics,
+computer vision, and mechanical design.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🤖 Science Olympiad Robot Tour Robot
+Two-wheel autonomous robot using an ESP32-C3, brushless gimbal motors,
+magnetic encoders, gyro heading control, and custom motion planning.
+
+- ESP32-C3 and SimpleFOC
+- MT6701 magnetic encoders
+- MPU6050 heading control
+- Curvature-based path following
+
+[View the project](PROJECT_LINK_HERE)
+
+### 📐 HoverLeveler
+A camera-based system that detects a laser line and creates a height map
+of a floor surface.
+
+- Android CameraX
+- Python and OpenCV
+- Flask file transfer
+- 3D and heat-map visualization
+
+[View the project](PROJECT_LINK_HERE)
+
+### 🔋 Battery Load Tester
+An ESP32-based electronic load with serial data logging and Python
+analysis tools.
+
+- PWM load control
+- Voltage and current measurement
+- Data smoothing
+- Curve fitting and derivative analysis
+
+[View the project](PROJECT_LINK_HERE)
+
+## Technologies
+
+- C++ and Arduino
+- Python
+- ESP32 and Raspberry Pi
+- OpenCV
+- Android development
+- Onshape FeatureScript
+- Git and GitHub
+
+## Contact
+
+- Email: YOUR_EMAIL
+- LinkedIn: YOUR_LINKEDIN
