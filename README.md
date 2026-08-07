@@ -27,16 +27,6 @@ of a floor surface.
 
 [View the project](PROJECT_LINK_HERE)
 
-### 🔋 Battery Load Tester
-An ESP32-based electronic load with serial data logging and Python
-analysis tools.
-
-- PWM load control
-- Voltage and current measurement
-- Data smoothing
-- Curve fitting and derivative analysis
-
-[View the project](PROJECT_LINK_HERE)
 
 ## Technologies
 
