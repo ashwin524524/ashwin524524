@@ -14,7 +14,7 @@ magnetic encoders, gyro heading control, and custom motion planning.
 - MPU6050 heading control
 - Curvature-based path following
 
-[View the project](PROJECT_LINK_HERE)
+[View the project](https://github.com/ashwin524524/robot-tour)
 
 ### 📐 HoverLeveler
 A camera-based system that detects a laser line and creates a height map
