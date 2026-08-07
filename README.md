@@ -27,6 +27,16 @@ of a floor surface.
 
 [View the project](PROJECT_LINK_HERE)
 
+###Other Projects
+- Onshape Featurescripts
+- Scioly Electric Vehicle
+- Rpi hosted discord bot
+- Mini CNC machine
+- Drone
+- 3d printed ARC Rocket
+- Rocketry Flight Computer + Airbrakes
+- BLCD FOC Motor Controller
+
 
 ## Technologies
 
@@ -37,6 +47,7 @@ of a floor surface.
 - Android development
 - Onshape FeatureScript
 - Git and GitHub
+- KiCad
 
 ## Contact
 
