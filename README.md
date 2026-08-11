@@ -5,6 +5,17 @@ computer vision, and mechanical design.
 
 ## Featured Projects
 
+### Science Olympiad Electric Vehicle
+Four-wheel vehicle driven by open loop stepper motor, using
+calculated arc path for can bonus.
+
+- Arduino Nano & A4988 Stepper Driver
+- Modular 3d Printed Frame
+- Time and distance based motion planning
+- Fixed arc path
+
+[View the project](https://github.com/ashwin524524/scioly-ev-2026)
+
 ### 🤖 Science Olympiad Robot Tour Robot
 Two-wheel autonomous robot using an ESP32-C3, brushless gimbal motors,
 magnetic encoders, gyro heading control, and custom motion planning.
@@ -27,7 +38,7 @@ of a floor surface.
 
 [View the project](PROJECT_LINK_HERE)
 
-###Other Projects
+### Other Projects
 - Onshape Featurescripts
 - Scioly Electric Vehicle
 - Rpi hosted discord bot
