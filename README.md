@@ -27,23 +27,21 @@ magnetic encoders, gyro heading control, and custom motion planning.
 
 [View the project](https://github.com/ashwin524524/robot-tour)
 
-### 📐 HoverLeveler
-A camera-based system that detects a laser line and creates a height map
-of a floor surface.
+### Onshape FeatureScripts
+A short list of custom Onshape FeatureScripts that help when
+speed modeling in competitions such as Science Olympiad.
 
-- Android CameraX
-- Python and OpenCV
-- Flask file transfer
-- 3D and heat-map visualization
+- Onshape featurescript language
+- Solid and surface geometry
+- Manipulator Change Functions
 
-[View the project](PROJECT_LINK_HERE)
+[View the project](https://github.com/ashwin524524/speed-cad-featurescripts)
 
 ### Other Projects
-- Onshape Featurescripts
-- Scioly Electric Vehicle
 - Rpi hosted discord bot
 - Mini CNC machine
 - Drone
+- Hover Leveler
 - 3d printed ARC Rocket
 - Rocketry Flight Computer + Airbrakes
 - BLCD FOC Motor Controller
