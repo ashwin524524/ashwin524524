@@ -60,5 +60,4 @@ speed modeling in competitions such as Science Olympiad.
 
 ## Contact
 
-- Email: YOUR_EMAIL
-- LinkedIn: YOUR_LINKEDIN
+- Email: rjash127@gmail.com
